@@ -1,19 +1,37 @@
-# Convolutional_Autoencoder
+<h1 align="center">Convolutional_Autoencoder</h1>
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/b2184178-1082-4c81-b2c9-334141162111" alt="Image" />
 </div>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4cf67c2e-800e-401f-8f21-8c2afefa500e" alt="Image" />
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/user-attachments/assets/b04f9d41-9a46-4fb8-9ff8-b440df92ac3e" alt="Image" style="max-width: 45%; height: auto;" />
+        <img src="https://github.com/user-attachments/assets/a9cd97a1-04f9-4ee3-a4a8-ea773aac9c18" alt="Image" style="max-width: 45%; height: auto;" />
+    </div>
 </div>
 
+<p align="center">
+  <a href="https://cocodataset.org/#home">
+    <img src="https://img.shields.io/badge/COCO%20Dataset-Visit%20Website-brightgreen" alt="COCO Dataset">
+  </a>
+  <a href="https://docs.ultralytics.com/ko">
+    <img src="https://img.shields.io/badge/Ultralytics%20Docs-Visit%20Website-blue" alt="Ultralytics Docs">
+  </a>
+</p>
+
+
+
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/a85fdbbc-fd13-4dbf-9969-d998b10a6f4a" alt="Image" />
+    
+## Reference
+
 </div>
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/8345c410-441b-475b-a7a8-f12356ac4a3f" alt="Image" />
 </div>
 
-[PDF 파일 보기](https://github.com/GyuHyeong-Kim/Convolutional_Autoencoder/blob/main/PDF/A%20Better%20Autoencoder%20for%20Image%20Convolutional%20Autoencoder.pdf)
+<div align="center">
+    <a href="https://github.com/GyuHyeong-Kim/Convolutional_Autoencoder/blob/main/PDF/A%20Better%20Autoencoder%20for%20Image%20Convolutional%20Autoencoder.pdf" target="_blank">A Better Autoencoder for Image: Convolutional Autoencoder</a>
+</div>
