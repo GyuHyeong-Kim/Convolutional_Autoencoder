@@ -11,16 +11,6 @@
     </div>
 </div>
 
-<p align="center">
-  <a href="https://cocodataset.org/#home">
-    <img src="https://img.shields.io/badge/COCO%20Dataset-Visit%20Website-brightgreen" alt="COCO Dataset">
-  </a>
-  <a href="https://docs.ultralytics.com/ko">
-    <img src="https://img.shields.io/badge/Ultralytics%20Docs-Visit%20Website-blue" alt="Ultralytics Docs">
-  </a>
-</p>
-
-
 
 <div align="center">
     
